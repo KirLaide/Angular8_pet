@@ -1,0 +1,29 @@
+
+### Angular ###
+## Angular ##
+# compiled output
+AngularInlineTableCRUD/dist/
+AngularInlineTableCRUD/tmp/
+AngularInlineTableCRUD/app/**/*.js
+AngularInlineTableCRUD/app/**/*.js.map
+
+# dependencies
+AngularInlineTableCRUD/node_modules/
+AngularInlineTableCRUD/bower_components/
+
+
+# misc
+AngularInlineTableCRUD/.sass-cache/
+AngularInlineTableCRUD/connect.lock/
+AngularInlineTableCRUD/coverage/
+AngularInlineTableCRUD/libpeerconnection.log/
+AngularInlineTableCRUD/npm-debug.log
+AngularInlineTableCRUD/testem.log
+AngularInlineTableCRUD/typings/
+
+# e2e
+AngularInlineTableCRUD/e2e/*.js
+AngularInlineTableCRUD/e2e/*.map
+
+#System Files
+AngularInlineTableCRUD/.DS_Store/

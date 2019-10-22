@@ -1,0 +1,13 @@
+* src
++---* app
+|   |
+|   +--* bankAccount
+|   |  |--bankAccount.component.ts|.html
+|   |
+|   +--* shared
+|   |  |--bank.service.ts
+|   |  |--bankAccount.service.ts
+|   |
+|   |--app.module.ts
+|
+|--index.html (cdn patch for bootstrap)
