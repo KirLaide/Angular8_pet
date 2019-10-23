@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormArray, Validators, FormGroup } from '@angular/forms';
 import { BankService } from '../shared/bank.service';
 import { BankAccountService } from '../shared/bank-account.service';
+import { timeout } from 'q';
 
 @Component({
   selector: 'app-bank-account',
@@ -102,6 +103,9 @@ export class BankAccountComponent implements OnInit {
         break;
     }
 
+    setTimeout(()=>{
+      this.notification=null;
+    },3000);
 
   }
 }
