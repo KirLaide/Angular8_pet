@@ -2,7 +2,6 @@ D:\04 CodeW\Angular8_pet\WebAPI\bin\Debug\netcoreapp3.0\appsettings.Development.
 D:\04 CodeW\Angular8_pet\WebAPI\bin\Debug\netcoreapp3.0\appsettings.json
 D:\04 CodeW\Angular8_pet\WebAPI\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
 D:\04 CodeW\Angular8_pet\WebAPI\bin\Debug\netcoreapp3.0\WebAPI.exe
-D:\04 CodeW\Angular8_pet\WebAPI\obj\Debug\netcoreapp3.0\WebAPI.csprojAssemblyReference.cache
 D:\04 CodeW\Angular8_pet\WebAPI\obj\Debug\netcoreapp3.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
 D:\04 CodeW\Angular8_pet\WebAPI\obj\Debug\netcoreapp3.0\staticwebassets\WebAPI.StaticWebAssets.xml
 D:\04 CodeW\Angular8_pet\WebAPI\obj\Debug\netcoreapp3.0\WebAPI.AssemblyInfoInputs.cache
@@ -107,4 +106,7 @@ D:\04 CodeW\Angular8_pet\WebAPI\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysi
 D:\04 CodeW\Angular8_pet\WebAPI\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\04 CodeW\Angular8_pet\WebAPI\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\04 CodeW\Angular8_pet\WebAPI\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\04 CodeW\Angular8_pet\WebAPI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\04 CodeW\Angular8_pet\WebAPI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\04 CodeW\Angular8_pet\WebAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
 D:\04 CodeW\Angular8_pet\WebAPI\obj\Debug\netcoreapp3.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache

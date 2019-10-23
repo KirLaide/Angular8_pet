@@ -2,11 +2,11 @@
 +---* app
 |   |
 |   +--* bankAccount
-|   |  |--bankAccount.component.ts|.html
+|   |  |--bank-account.component.ts|.html
 |   |
 |   +--* shared
 |   |  |--bank.service.ts
-|   |  |--bankAccount.service.ts
+|   |  |--bank-account.service.ts
 |   |
 |   |--app.module.ts
 |
